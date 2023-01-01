@@ -28,10 +28,15 @@ function [S, d, c, p, l, m] = binseqsi(a,b,L,r)
 %
 %       m: Cell array containing the paired elements of a and b.
 %
-% VERSION: 10 May 2020
+% VERSION: 1 January 2023
+%
+% MORE INFORMATION:
+%   Mendoza, J. I. (2022). Segmentation boundaries in accelerometer data of arm motion induced 
+%   by music: Online computation and perceptual assessment. Human Technology, 18(3), 250–266. 
+%   https://doi.org/10.14254/1795-6889.2022.18-3.4 
 %
 % Juan Ignacio Mendoza
-% University of Jyv?skyl?
+% University of Jyväskylä
 
 % check input arguments:
 err_r = ('binseqsi ERROR: r should be 1 or 0');
