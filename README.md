@@ -11,7 +11,13 @@ https://gitlab.jyu.fi/juigmend/matlab-plethora/-/tree/main/heaven_six_short_DEMO
 
 http://users.jyu.fi/~juigmend/didactic/Mendoza_Thompson_2017_POSTER.pdf
 
+![Report](https://jyx.jyu.fi/handle/123456789/55782)
+
+
 https://jyx.jyu.fi/handle/123456789/55782
+
+![Report](https://jyx.jyu.fi/bitstream/handle/123456789/55782/mendozaetal.pdf?sequence=1&isAllowed=y)
+
 https://jyx.jyu.fi/bitstream/handle/123456789/55782/mendozaetal.pdf?sequence=1&isAllowed=y
 
 
