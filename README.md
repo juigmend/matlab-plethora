@@ -6,10 +6,10 @@ Assorted and unorganized Matlab code.
 
 https://gitlab.jyu.fi/juigmend/matlab-plethora/-/tree/main/heaven_six_short_DEMO
 
-![DOWNLOAD: Poster Modelling Segmentation](http://users.jyu.fi/~juigmend/didactic/Mendoza_Thompson_2017_POSTER.pdf)
+![DOWNLOAD: Poster - Segmentation of Bodily Gestures Induced by Music](http://users.jyu.fi/~juigmend/didactic/Mendoza_Thompson_2017_POSTER.pdf)
 
 
-![DOWNLOAD: Report](https://jyx.jyu.fi/bitstream/handle/123456789/55782/mendozaetal.pdf?sequence=1&isAllowed=y)
+![DOWNLOAD: Report - Modelling Perceived Segmentation of Bodily Gestures Induced by Music](https://jyx.jyu.fi/bitstream/handle/123456789/55782/mendozaetal.pdf?sequence=1&isAllowed=y)
 
 http://urn.fi/URN:NBN:fi:jyu-201711024121
 
