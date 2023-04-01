@@ -8,6 +8,8 @@ Assorted and unorganized Matlab code.
 
 https://gitlab.jyu.fi/juigmend/matlab-plethora/-/tree/main/heaven_six_short_DEMO
 
+More information:
+
 ![DOWNLOAD POSTER - Segmentation of Bodily Gestures Induced by Music](http://users.jyu.fi/~juigmend/didactic/Mendoza_Thompson_2017_POSTER.pdf)
 
 
