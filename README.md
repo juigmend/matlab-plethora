@@ -2,9 +2,9 @@
 
 Assorted and unorganized Matlab code.
 
-<img src="https://gitlab.jyu.fi/juigmend/matlab-plethora/-/raw/main/heaven_six_short_DEMO/Juan_huhtikuuta_2018_heaven_six_mocap.gif" width="400" height="323"/>
+<img src="https://github.com/juigmend/matlab-plethora/raw/main/heaven_six_short_DEMO/Juan_huhtikuuta_2018_heaven_six_mocap.gif" width="400" height="323"/>
 
-![CODE AND MOCAP DATA FOR SKELETON ANIMATION:](https://gitlab.jyu.fi/juigmend/matlab-plethora/-/tree/main/heaven_six_short_DEMO) https://gitlab.jyu.fi/juigmend/matlab-plethora/-/tree/main/heaven_six_short_DEMO
+![CODE AND MOCAP DATA FOR SKELETON ANIMATION:](https://github.com/juigmend/matlab-plethora/tree/main/heaven_six_short_DEMO) https://github.com/juigmend/matlab-plethora/tree/main/heaven_six_short_DEMO
 
 More information:
 
