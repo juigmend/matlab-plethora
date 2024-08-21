@@ -8,13 +8,8 @@ Assorted and unorganized Matlab code.
 
 More information:
 
-* ![DOWNLOAD POSTER - Segmentation of Bodily Gestures Induced by Music](http://users.jyu.fi/~juigmend/didactic/Mendoza_Thompson_2017_POSTER.pdf)
+* ![DOWNLOAD POSTER - Segmentation of Bodily Gestures Induced by Music](https://juigmend.github.io/didactic/Mendoza_Thompson_2017_POSTER.pdf)
 
 
-* ![Mendoza Garay, J. I., & Thompson, M. (2017). Modelling Perceived Segmentation of Bodily Gestures Induced by Music. In E. V. Dyck (Ed.), ESCOM 2017 : Conference proceedings of the 25th Anniversary Edition of the European Society for the Cognitive Sciences of Music (ESCOM). Expressive Interaction with Music (pp. 128-133). Ghent ]() http://urn.fi/URN:NBN:fi:jyu-201711024121
-
-http://urn.fi/URN:NBN:fi:jyu-201711024121
-
-* Mendoza Garay, J. I., & Thompson, M. (2017). Modelling Perceived Segmentation of Bodily Gestures Induced by Music. In E. V. Dyck (Ed.), ESCOM 2017 : Conference proceedings of the 25th Anniversary Edition of the European Society for the Cognitive Sciences of Music (ESCOM). Expressive Interaction with Music (pp. 128-133). Ghent  ![http://urn.fi/URN:NBN:fi:jyu-201711024121 ](http://urn.fi/URN:NBN:fi:jyu-201711024121) http://urn.fi/URN:NBN:fi:jyu-201711024121)]
-
+* Mendoza Garay, J. I., & Thompson, M. (2017). Modelling Perceived Segmentation of Bodily Gestures Induced by Music. In E. V. Dyck (Ed.), ESCOM 2017 : Conference proceedings of the 25th Anniversary Edition of the European Society for the Cognitive Sciences of Music (ESCOM). Expressive Interaction with Music (pp. 128-133). Ghent  ![http://urn.fi/URN:NBN:fi:jyu-201711024121 ](http://urn.fi/URN:NBN:fi:jyu-201711024121)
 
